@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Data Pipeline
+
+Open States API → votega.org workflow → votega.org (live site). VoteGA.org then pushes the GA Legislators information to the ga-legislators repo and splits the file into house.json and senate.json. These files are available in a consumable format for anyone to use as they see fit. 
+
 <!--
 
 **Here are some ideas to get you started:**
