@@ -2,7 +2,7 @@
 
 ## Data Pipeline
 
-Open States API → votega.org workflow → votega.org (live site). VoteGA.org then pushes the GA Legislators information to the ga-legislators repo and splits the file into house.json and senate.json. These files are available in a consumable format for anyone to use as they see fit. 
+Open States API → votega.org workflow → votega.org (live site). VoteGA.org then pushes information to a separate GA Legislators Repo and GA Executive Orders repo. These repos contain files on GA Legislators (House and Senate) and Governor Executive Orders in a consumable format for anyone to use as they see fit. 
 
 <!--
 
