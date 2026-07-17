@@ -14,12 +14,11 @@ No party affiliation. No endorsements. No visitor profiling or data sales.
 
 These are updated automatically by scheduled workflows. Use them directly — no key,
 no signup, no rate limit.
-
 | Repository | Contents | Format | Updated |
 |---|---|---|---|
 | [ga-legislators](https://github.com/Votega/ga-legislators) | Current GA House & Senate members (158th General Assembly) — name, party, district, committees, contact, official page | `data/all.json` | Daily |
-| [ga-federal-legislators](https://github.com/Votega/ga-federal-legislators) | Georgia's 2 U.S. Senators and 14 U.S. Representatives | JSON | Weekly |
-| [ga-legislation](https://github.com/Votega/ga-legislation) | GA General Assembly bills, 2025–26 session (adapted from Open States) | JSON | Daily |
+| [ga-federal-legislators](https://github.com/Votega/ga-federal-legislators) | Georgia's 2 U.S. Senators and 14 U.S. Representatives | JSON | Daily (roster) · Weekly (votes) |
+| [ga-legislation](https://github.com/Votega/ga-legislation) | GA General Assembly bills, 2025–26 session (adapted from Open States) | JSON | Weekly |
 | [ga-executive-orders](https://github.com/Votega/ga-executive-orders) | Georgia Governor's executive orders, 2023–present — date, number, title, category, PDF link | One JSON file per year | On publication |
 | [ga-races-elections](https://github.com/Votega/ga-races-elections) | 2026 Georgia races and candidates | JSON | As SOS publishes |
 
