@@ -23,6 +23,7 @@ These are updated automatically by scheduled workflows.
 | [ga-executive-orders](https://github.com/Votega/ga-executive-orders) | Georgia Governor's executive orders, 2023–present — date, number, title, category, PDF link | One JSON file per year | On publication |
 | [ga-races-elections](https://github.com/Votega/ga-races-elections) | 2026 Georgia races and candidates | JSON | As SOS publishes |
 | [ga-local-government](https://github.com/Votega/ga-local-government) | What Georgia county & city governments are discussing on their published agendas & minutes — license-plate readers (ALPR), data centers, and land use — classified by keyword, with the source document for every mention, plus the jurisdiction registry and per-place coverage | `data/mentions.json`, `data/mentions.csv`, `data/places.json` (+ JSON Schema) | Twice weekly |
+| [ga-district-information](https://github.com/Votega/ga-district-information) | Georgia ZIP, county and census-tract crosswalks to legislative districts 
 
 **Sources:** [Congress.gov](https://api.congress.gov/), [Federal Register](https://www.federalregister.gov/developers/api/v1), [FEC](https://api.open.fec.gov/), [Oyez](https://api.oyez.org/), [Georgia Governor's Office](https://gov.georgia.gov/), [Georgia Secretary of State](https://sos.ga.gov/), [Georgia General Assembly SOAP Service](https://www.legis.ga.gov)
 
