@@ -21,7 +21,7 @@ These are updated automatically by scheduled workflows.
 | [ga-federal-legislators](https://github.com/Votega/ga-federal-legislators) | Georgia's 2 U.S. Senators and 14 U.S. Representatives and their roll-call voting records. Maintained by VoteGA.org | JSON | Daily (roster) · Weekly (votes) |
 | [ga-legislation](https://github.com/Votega/ga-legislation) | Georgia General Assembly bills and resolutions, and statewide ballot measures, as machine-readable data. Maintained by VoteGA.org | JSON | Weekly |
 | [ga-executive-orders](https://github.com/Votega/ga-executive-orders) | Georgia Governor's executive orders, 2023–present — date, number, title, category, PDF link | One JSON file per year | On publication |
-| [ga-races-elections](https://github.com/Votega/ga-races-elections) | 2026 Georgia races and candidates | JSON | As SOS publishes |
+| [ga-races-elections](https://github.com/Votega/ga-races-elections) | 2026 Georgia races and candidates and early vote data on turnout | JSON | As SOS publishes |
 | [ga-local-government](https://github.com/Votega/ga-local-government) | What Georgia county & city governments are discussing on their published agendas & minutes — license-plate readers (ALPR), data centers, and land use — classified by keyword, with the source document for every mention, plus the jurisdiction registry and per-place coverage | `data/mentions.json`, `data/mentions.csv`, `data/places.json` (+ JSON Schema) | Twice weekly |
 | [ga-district-information](https://github.com/Votega/ga-district-information) | Georgia ZIP, county and census-tract crosswalks to legislative districts | Each dataset comes as JSON, CSV and a JSON Schema. The CSVs are flattened views of the JSON, one row per place and district. | Monthly |
 
